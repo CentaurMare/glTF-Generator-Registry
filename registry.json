@@ -19,5 +19,11 @@
             "homepage": "https://github.com/KhronosGroup/COLLADA2GLTF",
             "bugs": "https://github.com/KhronosGroup/COLLADA2GLTF/issues"
         }
+        {
+            "name": "Sketchup glTF Exporter by Centaur",
+            "id": "Sketchup glTF Exporter by Centaur",
+            "homepage": "https://extensions.sketchup.com/en/content/gltf-exporter",
+            "bugs": "https://extensions.sketchup.com/en/content/gltf-exporter"
+        }
     ]
 }
